@@ -172,24 +172,149 @@
           <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-app">App</li>
-            <li data-filter=".filter-product">Product</li>
-            <li data-filter=".filter-branding">Branding</li>
-            <li data-filter=".filter-books">Books</li>
+            <li data-filter=".filter-product">Software</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
 
-            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
                 <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>POS</h4>
-                  <p>Point of Sale Web Application Solution</p>
+                  <p>Business Management Software (POS)</p>
                   <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
-                  <a href="portfolio-1.html" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/WMS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>WMS</h4>
+                  <p>Workshop Management Software</p>
+                  <a href="assets/portfolio/WMS/1.png" title="WMS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p2.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>POS</h4>
+                  <p>Business Management Software (POS)</p>
+                  <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+
+
+
+
+
+
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">

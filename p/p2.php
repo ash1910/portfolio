@@ -153,7 +153,7 @@
             <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
               <h3>Project information</h3>
               <ul>
-                <li><strong>Category</strong>: Workshop Management Software (ERP)</li>
+                <li><strong>Category</strong>: Workshop Management Software (WMS)</li>
                 <!-- <li><strong>Client</strong>: Equation IT</li> -->
                 <li><strong>Project date</strong>: 2020-21</li>
                 <li><strong>Project Demo URL</strong>: <a target="_blank" href="https://wms.equation.wmd-hosting.com/">https://wms.equation.wmd-hosting.com/</a></li>
@@ -161,32 +161,134 @@
               </ul>
             </div>
             <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
+    
 <h5>Overview:</h5>
-<p>
-  The Workshop Management System(WMS) is a comprehensive web application designed to streamline the operations of workshops, garages, and service centers. It simplifies job tracking, customer communication, and resource management, enabling workshops to improve efficiency and customer satisfaction.
-</p>
+<p>The "Workshop Management Software (WMS)" is designed to help businesses streamline and manage workshop operations. It integrates billing, inventory management, receivables, accounts, and customer relationship management, providing a comprehensive solution for workshop management and financial tracking.</p>
 
 <h5>Key Features:</h5>
 <ul>
-  <li><strong>Job Management:</strong> Track the progress of repair jobs from start to completion, with real-time status updates.</li>
-  <li><strong>Customer Management:</strong> Maintain detailed customer profiles, including service history and contact details.</li>
-  <li><strong>Scheduling and Appointments:</strong> Allow customers to book appointments online and view their service schedule.</li>
-  <li><strong>Inventory Management:</strong> Track parts and tools inventory, ensuring availability for upcoming jobs.</li>
-  <li><strong>Billing and Invoicing:</strong> Generate detailed invoices with a breakdown of labor, parts, and taxes.</li>
-  <li><strong>Reports and Analytics:</strong> Provide insights into workshop performance, including revenue, job types, and efficiency metrics.</li>
+  <li><strong>Dashboard:</strong>
+    <ul>
+      <li>Number of Jobs: View the total number of jobs currently being processed.</li>
+      <li>Billing Status: Track the status of ongoing billing tasks.</li>
+      <li>Inventory Status: Monitor the status of inventory items.</li>
+      <li>Stock Status: View the current stock levels in the workshop.</li>
+    </ul>
+  </li>
+
+  <li><strong>Settings:</strong>
+    <ul>
+      <li>User: Manage user roles and access permissions.</li>
+      <li>Bill of Materials (BOM) Parts: Maintain a list of parts used in various services.</li>
+      <li>Parts: Manage parts inventory.</li>
+      <li>Service: Define and manage the services offered by the workshop.</li>
+      <li>Supplier: Manage supplier details and contacts.</li>
+    </ul>
+  </li>
+
+  <li><strong>Inventory Management:</strong>
+    <ul>
+      <li>Inventory: Manage and track inventory items in the workshop.</li>
+      <li>Purchase: Record and manage purchases of inventory items.</li>
+      <li>Purchase Return: Handle returns of purchased items.</li>
+      <li>Issue: Track issued items for jobs and services.</li>
+      <li>Issue Return: Manage returns of issued items.</li>
+      <li>WIP Stock: Manage stock that is in the process of being used in jobs (Work In Progress).</li>
+    </ul>
+  </li>
+
+  <li><strong>Receivable:</strong>
+    <ul>
+      <li>Cash Out: Track all cash payments made.</li>
+      <li>All Due Report: View a report of all due payments and amounts.</li>
+      <li>Accounts: Manage accounts for the workshop.</li>
+      <li>Decline Bank (POS): Track declined payments made through the point-of-sale system.</li>
+      <li>Transactions: Manage and track financial transactions.</li>
+    </ul>
+  </li>
+
+  <li><strong>Account Management:</strong>
+    <ul>
+      <li>Accounts Group: Define and manage groups of accounts.</li>
+      <li>Accounts Head: Define the head categories for accounts.</li>
+      <li>Opening Balance: Set the opening balance for accounts.</li>
+      <li>Voucher Entry: Record voucher entries for financial transactions.</li>
+      <li>Auto Journal: Automatically create journal entries for transactions.</li>
+      <li>Accounts Report: Generate reports on the accounts of the workshop.</li>
+    </ul>
+  </li>
+
+  <li><strong>Billing Management:</strong>
+    <ul>
+      <li>Create Billing: Generate new billing entries for services and parts.</li>
+      <li>Search Client: Search for clients by name or registration number.</li>
+      <li>Search by Registration No.: Search clients by their vehicle registration number.</li>
+      <li>Search by Chassis No.: Search clients by vehicle chassis number.</li>
+      <li>Add Parts: Add parts to the bill.</li>
+      <li>Add Service: Add services to the bill.</li>
+      <li>Make Payment by Card, Cheque, Online: Provide multiple payment options for clients.</li>
+    </ul>
+  </li>
+
+  <li><strong>Estimate Management:</strong>
+    <ul>
+      <li>Create New Estimate: Generate a new estimate for services or repairs.</li>
+      <li>Modify: Modify an existing estimate.</li>
+      <li>Clone: Duplicate an existing estimate to create a new one.</li>
+      <li>Add Parts: Add parts to the estimate.</li>
+      <li>Add Service: Add services to the estimate.</li>
+    </ul>
+  </li>
+
+  <li><strong>CRM:</strong>
+    <ul>
+      <li>Add New Customer: Add new customer details into the CRM system.</li>
+    </ul>
+  </li>
+
+  <li><strong>Ledger Management:</strong>
+    <ul>
+      <li>Product Ledger: Track the financial transactions related to products.</li>
+      <li>Supplier Ledger: Maintain a ledger for suppliers.</li>
+      <li>Vehicle Ledger: Track the financial details of vehicles being serviced.</li>
+      <li>Job Ledger: Manage ledger entries for jobs completed in the workshop.</li>
+      <li>Advance Ledger: Track advance payments and balances.</li>
+    </ul>
+  </li>
+
+  <li><strong>Reports:</strong>
+    <ul>
+      <li>Estimate List: View a list of all estimates created.</li>
+      <li>Draft Bills: View draft bills that are pending finalization.</li>
+      <li>Main Bills: View finalized main bills.</li>
+      <li>Receive: Generate reports on received payments.</li>
+      <li>AIT: Generate AIT reports for tax purposes.</li>
+      <li>VAT: Generate VAT reports for transactions.</li>
+      <li>Purchase: Generate reports on purchase activities.</li>
+      <li>Issue: Generate reports on issued items.</li>
+      <li>Gross Profit: View reports on the gross profit generated.</li>
+      <li>Due: Generate reports on due payments.</li>
+      <li>Gate Pass: View gate pass reports for inventory movement.</li>
+      <li>Accounting: Generate general accounting reports.</li>
+      <li>WIP: View reports on Work In Progress items.</li>
+    </ul>
+  </li>
 </ul>
+
 <h5>Challenges Addressed:</h5>
 <ul>
-  <li><strong>Integrated scheduling and job management:</strong> Reduced appointment overlaps and delays through advanced scheduling features.</li>
-  <li><strong>Optimized database architecture:</strong> Ensured seamless handling of large-scale data, such as customer histories and inventory details.</li>
-  <li><strong>Enhanced security:</strong> Developed robust authentication and role-based access control for secure multi-user access.</li>
+  <li>Centralized management of jobs, inventory, and financials in the workshop.</li>
+  <li>Efficient billing and payment management, with multiple payment methods.</li>
+  <li>Improved tracking of parts, services, and customer interactions.</li>
 </ul>
+
 <h5>Achievements:</h5>
 <ul>
-  <li><strong>Improved job processing time:</strong> Reduced processing time by 20% through efficient tracking and resource allocation.</li>
-  <li><strong>Enhanced customer retention:</strong> Automated service reminders and detailed service histories led to increased customer satisfaction.</li>
-  <li><strong>Successful implementation:</strong> Deployed the system in multiple workshops, improving workflow and increasing revenue.</li>
+  <li>Simplified and automated billing and estimation processes.</li>
+  <li>Streamlined inventory management and stock tracking.</li>
+  <li>Enhanced financial tracking and reporting capabilities.</li>
 </ul>
+
 
             </div>
           </div>

@@ -181,7 +181,7 @@
               <div class="portfolio-content h-100">
                 <img src="assets/portfolio/POS/1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
-                  <h4>POS</h4>
+                  <h4>POS</h4> 
                   <p>Business Management Software (POS)</p>
                   <a href="assets/portfolio/POS/1.png" title="POS" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="/p/p1.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>

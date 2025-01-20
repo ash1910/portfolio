@@ -213,6 +213,42 @@
               </div>
             </div><!-- End Portfolio Item -->
 
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/BDTax/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>BDTax</h4>
+                  <p>BDTax Mobile Application</p>
+                  <a href="assets/portfolio/BDTax/1.png" title="BDTax Mobile Application" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p13.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/Vault/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Vault</h4>
+                  <p>Vault IOS Mobile App</p>
+                  <a href="assets/portfolio/Vault/1.png" title="Vault" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p14.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/eLinus/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>eLinus</h4>
+                  <p>eLinus IOS Mobile App</p>
+                  <a href="assets/portfolio/eLinus/1.png" title="eLinus" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p15.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
                 <img src="assets/portfolio/ERP/1.png" class="img-fluid" alt="">

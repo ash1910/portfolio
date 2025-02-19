@@ -85,21 +85,21 @@
             <h3 class="resume-title">Education</h3>
             <div class="resume-item">
               <h4>Bachelor in Computer Science and Engineering</h4>
-              <h5>2006 - 2010</h5>
+              <h5>Passed in 2010</h5>
               <p><em>Rajshahi University of Engineering & Technology(RUET)</em></p>
               <p>CGPA: 3.5 (4.0 Scale)</p>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
               <h4>Higher Secondary Certificate</h4>
-              <h5>2005</h5>
-              <p><em>B A F Shaheen College, Dhaka</em></p>
+              <h5>Passed in 2005</h5>
+              <p><em>B A F Shaheen College, Tejgaon, Dhaka</em></p>
               <p>CGPA: 4.90 (5.0 Scale)</p>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
               <h4>Secondary School Certificate</h4>
-              <h5>2003</h5>
+              <h5>Passed in 2003</h5>
               <p><em>Shaheed Ramiz Uddin High School, Dhaka</em></p>
               <p>CGPA: 4.88 (5.0 Scale)</p>
             </div><!-- Edn Resume Item -->
@@ -275,11 +275,11 @@
 
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
-                <img src="assets/portfolio/eSTORE/1.png" class="img-fluid" alt="">
+                <img src="assets/portfolio/eStore/1.png" class="img-fluid" alt="">
                 <div class="portfolio-info">
                   <h4>ESTORE</h4>
                   <p>STORE MANAGEMENT SYSTEM</p>
-                  <a href="assets/portfolio/eSTORE/1.png" title="ESTORE" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="assets/portfolio/eStore/1.png" title="ESTORE" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="/p/p5.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>

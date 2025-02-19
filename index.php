@@ -250,6 +250,18 @@
               </div>
             </div><!-- End Portfolio Item -->
 
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/AmarhaorApp/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Amarhaor</h4>
+                  <p>Amarhaor Android Mobile App</p>
+                  <a href="assets/portfolio/AmarhaorApp/1.png" title="AmarhaorApp" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p18.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
                 <img src="assets/portfolio/ERP/1.png" class="img-fluid" alt="">
@@ -366,6 +378,18 @@
                   <p>Mestate Property Buy Rent Sell Management System</p>
                   <a href="assets/portfolio/mestate/1.png" title="Mestate" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="/p/p16.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/amarhaorweb/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Amarhaor</h4>
+                  <p>Amarhaor Website</p>
+                  <a href="assets/portfolio/amarhaorweb/1.png" title="Amarhaor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p17.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->

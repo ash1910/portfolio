@@ -173,6 +173,7 @@
             <li data-filter="*" class="filter-active">All</li>
             <li data-filter=".filter-app">App</li>
             <li data-filter=".filter-product">Software</li>
+            <li data-filter=".filter-website">Website</li>
           </ul><!-- End Portfolio Filters -->
 
           <div class="row gy-4 isotope-container" data-aos="fade-up" data-aos-delay="200">
@@ -353,6 +354,18 @@
                   <p>Budget Management Accounting Software</p>
                   <a href="assets/portfolio/BudgetAccounting/1.png" title="Budget Management" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="/p/p11.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-website">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/mestate/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>Mestate</h4>
+                  <p>Mestate Property Buy Rent Sell Management System</p>
+                  <a href="assets/portfolio/mestate/1.png" title="Mestate" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p16.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->

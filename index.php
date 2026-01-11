@@ -262,6 +262,30 @@
               </div>
             </div><!-- End Portfolio Item -->
 
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/PiqDropSender/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>PiqDrop Sender</h4>
+                  <p>PiqDrop Sender/Customer Mobile App</p>
+                  <a href="assets/portfolio/PiqDropSender/1.png" title="PiqDrop Sender" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p19.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-app">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/PiqDropRider/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>PiqDrop Rider</h4>
+                  <p>PiqDrop Rider/Driver Mobile App</p>
+                  <a href="assets/portfolio/PiqDropRider/1.png" title="PiqDrop Rider" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p20.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
             <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
               <div class="portfolio-content h-100">
                 <img src="assets/portfolio/ERP/1.png" class="img-fluid" alt="">
@@ -390,6 +414,18 @@
                   <p>Amarhaor Website</p>
                   <a href="assets/portfolio/amarhaorweb/1.png" title="Amarhaor" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
                   <a href="/p/p17.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
+                </div>
+              </div>
+            </div><!-- End Portfolio Item -->
+
+            <div class="col-lg-4 col-md-6 portfolio-item isotope-item filter-product">
+              <div class="portfolio-content h-100">
+                <img src="assets/portfolio/PiqDropAdmin/1.png" class="img-fluid" alt="">
+                <div class="portfolio-info">
+                  <h4>PiqDrop Admin Panel</h4>
+                  <p>PiqDrop Admin Management System</p>
+                  <a href="assets/portfolio/PiqDropAdmin/1.png" title="PiqDrop Admin Panel" data-gallery="portfolio-gallery-app" class="glightbox preview-link"><i class="bi bi-zoom-in"></i></a>
+                  <a href="/p/p21.php" title="More Details" class="details-link"><i class="bi bi-link-45deg"></i></a>
                 </div>
               </div>
             </div><!-- End Portfolio Item -->

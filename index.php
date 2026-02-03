@@ -109,22 +109,20 @@
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="200">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Technical Lead</h4>
-              <h5>2023 - 2024</h5>
-              <p><em>TMC, Dhaka </em></p>
+              <h4>Senior Full Stack Software Engineer</h4>
+              <h5>2025 - Present</h5>
+              <p><em>Ternaryweb, Bangladesh </em></p>
               <ul>
-                <li>As a Technical Lead, I excel at guiding development teams to deliver high-quality software solutions while fostering a collaborative and growth-oriented environment. My role involves mentoring developers, conducting code reviews, and ensuring adherence to best practices in coding, design patterns, and system architecture. I actively facilitate communication between cross-functional teams, aligning technical strategies with business goals and ensuring projects are delivered on time and within scope.
-                </li>
-                <li>Leveraging over a decade of experience, I bring deep expertise in modern technologies and frameworks, including Laravel, React, Next.js, and REST APIs. I focus on designing scalable, secure, and performance-optimized solutions tailored to the specific needs of the organization. I am adept at identifying technical challenges early and implementing innovative strategies to mitigate risks, driving efficiency and reliability in project delivery.
-                </li>
-                <li>In my role, I contribute to long-term technical strategy and roadmap planning, ensuring alignment with emerging industry trends and organizational objectives. I emphasize continuous improvement through the adoption of new tools and methodologies, fostering a culture of learning and adaptability. By balancing technical leadership with a strategic vision, I empower teams to deliver impactful solutions that exceed stakeholder expectations.
-                </li>
+                <li>Lead full-stack development of web and mobile applications using Laravel, React, Vue.js, and React Native, architecting scalable RESTful APIs and database schemas.</li>
+                <li>Implement third-party integrations including payment gateways (Stripe, Bkash, SSLCommerz), authentication systems (OAuth2, JWT, Passport), and external APIs.</li>
+                <li>Optimize system performance through code refactoring, database query optimization, and caching strategies, improving response times by up to 40%.</li>
+                <li>Mentor junior developers, conduct code reviews, and establish coding standards. Deploy to AWS, Firebase, and VPS environments.</li>
               </ul>
             </div><!-- Edn Resume Item -->
 
             <div class="resume-item">
               <h4>Senior Software Engineer</h4>
-              <h5>2014 - 2022</h5>
+              <h5>2014 - 2024</h5>
               <p><em>WMD d.o.o, Croatia </em></p>
               <ul>
                 <li>At WMD, I developed scalable web applications and APIs using Laravel, React.js, and Next.js, ensuring performance, reliability, and seamless database integration.
